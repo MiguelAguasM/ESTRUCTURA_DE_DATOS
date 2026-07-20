@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "boton_navegacion/1.0.0": {
+        "runtime": {
+          "boton_navegacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "boton_navegacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
