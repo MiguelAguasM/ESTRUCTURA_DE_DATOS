@@ -1,0 +1,32 @@
+[
+  {
+    "CodigoBarras": "001",
+    "Titulo": "Cien años de soledad",
+    "Autor": "Gabriel García Márquez",
+    "Categoria": "Realismo"
+  },
+  {
+    "CodigoBarras": "002",
+    "Titulo": "1984 Libro",
+    "Autor": "George Orwell",
+    "Categoria": "Ficción"
+  },
+  {
+    "CodigoBarras": "003",
+    "Titulo": "Harry Potter y la piedra filosofal",
+    "Autor": "J.K. Rowling",
+    "Categoria": "Fantasía"
+  },
+  {
+    "CodigoBarras": "004",
+    "Titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+    "Autor": "J.R.R. Tolkien",
+    "Categoria": "Fantasía"
+  },
+  {
+    "CodigoBarras": "005",
+    "Titulo": "Código Limpio (Clean Code)",
+    "Autor": "Robert C. Martin",
+    "Categoria": "Programación"
+  }
+]
